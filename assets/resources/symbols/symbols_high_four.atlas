@@ -1,0 +1,62 @@
+
+symbols_high_four.png
+size: 379,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 112, 12
+  size: 108, 133
+  orig: 110, 135
+  offset: 1, 1
+  index: -1
+blur
+  rotate: false
+  xy: 2, 11
+  size: 108, 134
+  orig: 110, 136
+  offset: 1, 1
+  index: -1
+cup
+  rotate: true
+  xy: 235, 91
+  size: 89, 105
+  orig: 91, 108
+  offset: 1, 2
+  index: -1
+cup big
+  rotate: false
+  xy: 2, 147
+  size: 121, 143
+  orig: 121, 144
+  offset: 0, 1
+  index: -1
+dark
+  rotate: false
+  xy: 125, 157
+  size: 108, 133
+  orig: 108, 134
+  offset: 0, 0
+  index: -1
+flare
+  rotate: false
+  xy: 326, 38
+  size: 51, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1
+glow
+  rotate: true
+  xy: 222, 2
+  size: 87, 102
+  orig: 87, 103
+  offset: 0, 1
+  index: -1
+static
+  rotate: true
+  xy: 235, 182
+  size: 108, 133
+  orig: 110, 135
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,41 @@
+
+symbols_low_two.png
+size: 626,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+K
+  rotate: false
+  xy: 543, 19
+  size: 81, 91
+  orig: 86, 95
+  offset: 1, 2
+  index: -1
+Kbg
+  rotate: true
+  xy: 138, 2
+  size: 108, 133
+  orig: 110, 135
+  offset: 1, 1
+  index: -1
+blur
+  rotate: true
+  xy: 2, 2
+  size: 108, 134
+  orig: 110, 136
+  offset: 1, 1
+  index: -1
+dark
+  rotate: true
+  xy: 273, 2
+  size: 108, 133
+  orig: 110, 135
+  offset: 1, 1
+  index: -1
+static
+  rotate: true
+  xy: 408, 2
+  size: 108, 133
+  orig: 110, 135
+  offset: 1, 1
+  index: -1

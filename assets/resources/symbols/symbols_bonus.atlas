@@ -1,0 +1,48 @@
+
+symbols_bonus.png
+size: 647,113
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bonus
+  rotate: true
+  xy: 532, 3
+  size: 108, 60
+  orig: 110, 62
+  offset: 1, 1
+  index: -1
+blur
+  rotate: true
+  xy: 2, 3
+  size: 108, 134
+  orig: 110, 136
+  offset: 1, 1
+  index: -1
+flare
+  rotate: false
+  xy: 594, 60
+  size: 51, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1
+frame
+  rotate: true
+  xy: 272, 3
+  size: 108, 131
+  orig: 110, 133
+  offset: 1, 1
+  index: -1
+lamp
+  rotate: true
+  xy: 405, 2
+  size: 109, 125
+  orig: 110, 128
+  offset: 1, 2
+  index: -1
+static
+  rotate: true
+  xy: 138, 3
+  size: 108, 132
+  orig: 108, 134
+  offset: 0, 0
+  index: -1

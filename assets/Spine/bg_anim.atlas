@@ -1,0 +1,111 @@
+
+bg_anim.png
+size: 925,45
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+comet
+  rotate: false
+  xy: 2, 20
+  size: 123, 23
+  orig: 130, 27
+  offset: 2, 2
+  index: -1
+flare_1
+  rotate: false
+  xy: 127, 2
+  size: 55, 41
+  orig: 57, 43
+  offset: 1, 1
+  index: -1
+flare_10
+  rotate: false
+  xy: 640, 2
+  size: 55, 41
+  orig: 57, 43
+  offset: 1, 1
+  index: -1
+flare_11
+  rotate: false
+  xy: 697, 2
+  size: 55, 41
+  orig: 57, 43
+  offset: 1, 1
+  index: -1
+flare_12
+  rotate: false
+  xy: 754, 2
+  size: 55, 41
+  orig: 57, 43
+  offset: 1, 1
+  index: -1
+flare_13
+  rotate: false
+  xy: 811, 2
+  size: 55, 41
+  orig: 57, 43
+  offset: 1, 1
+  index: -1
+flare_14
+  rotate: false
+  xy: 868, 2
+  size: 55, 41
+  orig: 57, 43
+  offset: 1, 1
+  index: -1
+flare_2
+  rotate: false
+  xy: 184, 2
+  size: 55, 41
+  orig: 57, 43
+  offset: 1, 1
+  index: -1
+flare_3
+  rotate: false
+  xy: 241, 2
+  size: 55, 41
+  orig: 57, 43
+  offset: 1, 1
+  index: -1
+flare_4
+  rotate: false
+  xy: 298, 2
+  size: 55, 41
+  orig: 57, 43
+  offset: 1, 1
+  index: -1
+flare_5
+  rotate: false
+  xy: 355, 2
+  size: 55, 41
+  orig: 57, 43
+  offset: 1, 1
+  index: -1
+flare_6
+  rotate: false
+  xy: 412, 2
+  size: 55, 41
+  orig: 57, 43
+  offset: 1, 1
+  index: -1
+flare_7
+  rotate: false
+  xy: 469, 2
+  size: 55, 41
+  orig: 57, 43
+  offset: 1, 1
+  index: -1
+flare_8
+  rotate: false
+  xy: 526, 2
+  size: 55, 41
+  orig: 57, 43
+  offset: 1, 1
+  index: -1
+flare_9
+  rotate: false
+  xy: 583, 2
+  size: 55, 41
+  orig: 57, 43
+  offset: 1, 1
+  index: -1

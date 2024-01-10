@@ -1,0 +1,62 @@
+
+symbols_high_two.png
+size: 755,138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgh
+  rotate: false
+  xy: 260, 3
+  size: 108, 133
+  orig: 110, 135
+  offset: 1, 1
+  index: -1
+blur
+  rotate: false
+  xy: 150, 2
+  size: 108, 134
+  orig: 110, 136
+  offset: 1, 1
+  index: -1
+dark
+  rotate: false
+  xy: 370, 3
+  size: 108, 133
+  orig: 108, 134
+  offset: 0, 0
+  index: -1
+flare
+  rotate: false
+  xy: 684, 66
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+gem
+  rotate: true
+  xy: 684, 2
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+ring
+  rotate: true
+  xy: 2, 8
+  size: 128, 146
+  orig: 140, 156
+  offset: 10, 0
+  index: -1
+small
+  rotate: false
+  xy: 590, 31
+  size: 92, 105
+  orig: 95, 110
+  offset: 1, 2
+  index: -1
+static
+  rotate: false
+  xy: 480, 3
+  size: 108, 133
+  orig: 110, 135
+  offset: 1, 1
+  index: -1

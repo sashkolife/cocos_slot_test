@@ -1,0 +1,153 @@
+
+paylines.png
+size: 404,107
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 47
+  size: 40, 37
+  orig: 45, 41
+  offset: 3, 2
+  index: -1
+10
+  rotate: true
+  xy: 209, 44
+  size: 40, 37
+  orig: 45, 41
+  offset: 3, 2
+  index: -1
+11
+  rotate: true
+  xy: 248, 44
+  size: 40, 37
+  orig: 45, 41
+  offset: 3, 2
+  index: -1
+12
+  rotate: true
+  xy: 287, 44
+  size: 40, 37
+  orig: 45, 41
+  offset: 3, 2
+  index: -1
+13
+  rotate: true
+  xy: 326, 44
+  size: 40, 37
+  orig: 45, 41
+  offset: 3, 2
+  index: -1
+14
+  rotate: true
+  xy: 365, 44
+  size: 40, 37
+  orig: 45, 41
+  offset: 3, 2
+  index: -1
+15
+  rotate: false
+  xy: 158, 5
+  size: 40, 37
+  orig: 45, 41
+  offset: 3, 2
+  index: -1
+16
+  rotate: false
+  xy: 200, 5
+  size: 40, 37
+  orig: 45, 41
+  offset: 3, 2
+  index: -1
+17
+  rotate: true
+  xy: 242, 2
+  size: 40, 37
+  orig: 45, 41
+  offset: 3, 2
+  index: -1
+18
+  rotate: true
+  xy: 281, 2
+  size: 40, 37
+  orig: 45, 41
+  offset: 3, 2
+  index: -1
+19
+  rotate: true
+  xy: 320, 2
+  size: 40, 37
+  orig: 45, 41
+  offset: 3, 2
+  index: -1
+2
+  rotate: false
+  xy: 44, 47
+  size: 40, 37
+  orig: 45, 41
+  offset: 3, 2
+  index: -1
+20
+  rotate: true
+  xy: 359, 2
+  size: 40, 37
+  orig: 45, 41
+  offset: 3, 2
+  index: -1
+3
+  rotate: false
+  xy: 86, 47
+  size: 40, 37
+  orig: 45, 41
+  offset: 3, 2
+  index: -1
+4
+  rotate: false
+  xy: 128, 47
+  size: 40, 37
+  orig: 45, 41
+  offset: 3, 2
+  index: -1
+5
+  rotate: true
+  xy: 170, 44
+  size: 40, 37
+  orig: 45, 41
+  offset: 3, 2
+  index: -1
+6
+  rotate: true
+  xy: 2, 5
+  size: 40, 37
+  orig: 45, 41
+  offset: 3, 2
+  index: -1
+7
+  rotate: true
+  xy: 41, 5
+  size: 40, 37
+  orig: 45, 41
+  offset: 3, 2
+  index: -1
+8
+  rotate: true
+  xy: 80, 5
+  size: 40, 37
+  orig: 45, 41
+  offset: 3, 2
+  index: -1
+9
+  rotate: true
+  xy: 119, 5
+  size: 40, 37
+  orig: 45, 41
+  offset: 3, 2
+  index: -1
+line
+  rotate: false
+  xy: 2, 86
+  size: 383, 19
+  orig: 383, 29
+  offset: 0, 5
+  index: -1

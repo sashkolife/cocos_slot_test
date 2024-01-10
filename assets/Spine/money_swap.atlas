@@ -1,0 +1,27 @@
+
+money_swap.png
+size: 104,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin
+  rotate: false
+  xy: 2, 27
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2, 2
+  size: 90, 16
+  orig: 90, 16
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 84, 20
+  size: 88, 18
+  orig: 88, 18
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+symbols_high_three.png
+size: 741,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 253, 8
+  size: 108, 133
+  orig: 110, 135
+  offset: 1, 1
+  index: -1
+blur
+  rotate: false
+  xy: 143, 7
+  size: 108, 134
+  orig: 110, 136
+  offset: 1, 1
+  index: -1
+coins
+  rotate: false
+  xy: 688, 40
+  size: 47, 48
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+dark
+  rotate: false
+  xy: 363, 8
+  size: 108, 133
+  orig: 108, 134
+  offset: 0, 0
+  index: -1
+flare
+  rotate: false
+  xy: 688, 90
+  size: 51, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1
+sack big
+  rotate: false
+  xy: 2, 2
+  size: 139, 139
+  orig: 140, 154
+  offset: 1, 8
+  index: -1
+small
+  rotate: false
+  xy: 583, 34
+  size: 103, 107
+  orig: 105, 110
+  offset: 2, 2
+  index: -1
+static
+  rotate: false
+  xy: 473, 8
+  size: 108, 133
+  orig: 110, 135
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,55 @@
+
+symbols_high_one.png
+size: 818,113
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+big
+  rotate: true
+  xy: 542, 2
+  size: 109, 111
+  orig: 110, 115
+  offset: 1, 1
+  index: -1
+blur
+  rotate: true
+  xy: 2, 3
+  size: 108, 134
+  orig: 110, 136
+  offset: 1, 1
+  index: -1
+dark
+  rotate: true
+  xy: 408, 5
+  size: 106, 132
+  orig: 110, 135
+  offset: 2, 1
+  index: -1
+flare
+  rotate: true
+  xy: 746, 34
+  size: 77, 70
+  orig: 79, 72
+  offset: 1, 1
+  index: -1
+high_one
+  rotate: true
+  xy: 138, 3
+  size: 108, 133
+  orig: 110, 135
+  offset: 1, 1
+  index: -1
+small
+  rotate: true
+  xy: 655, 10
+  size: 101, 89
+  orig: 108, 134
+  offset: 2, 17
+  index: -1
+static
+  rotate: true
+  xy: 273, 3
+  size: 108, 133
+  orig: 110, 135
+  offset: 1, 1
+  index: -1
